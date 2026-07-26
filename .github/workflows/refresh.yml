@@ -1,0 +1,30 @@
+name: Refresh skill catalog
+
+# Re-bakes skills.json daily so the app can fetch ONE pre-aggregated file instead of calling the
+# GitHub API per repo (60 req/hour unauthenticated — a per-repo fetch would render zeros, and a
+# token would mean an account).
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Re-bake catalog
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 refresh-skills.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- skills.json; then echo "no change"; exit 0; fi
+          git config user.name  "sidewatch-bot"
+          git config user.email "bot@sidewatch.local"
+          git add skills.json
+          git commit -m "Refresh skill catalog"
+          git push
