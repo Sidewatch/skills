@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-08-15",
+  "generated": "2026-08-16",
   "skills": [
     {
       "repo": "anthropics/skills",
@@ -8,7 +8,7 @@
       "summary": "Public repository for Agent Skills",
       "category": "Collections",
       "install": "git clone https://github.com/anthropics/skills .claude/skills/skills",
-      "stars": 169425,
+      "stars": 169586,
       "updated": "2026-08-13",
       "license": null
     },
@@ -18,7 +18,7 @@
       "summary": "An agentic skills framework & software development methodology that works.",
       "category": "Frameworks",
       "install": "git clone https://github.com/obra/superpowers .claude/skills/superpowers",
-      "stars": 272223,
+      "stars": 272546,
       "updated": "2026-08-13",
       "license": "MIT"
     },
@@ -28,7 +28,7 @@
       "summary": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "category": "Design",
       "install": "git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill .claude/skills/ui-ux-pro-max-skill",
-      "stars": 116792,
+      "stars": 117092,
       "updated": "2026-08-13",
       "license": "MIT"
     },
@@ -38,7 +38,7 @@
       "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "category": "Output style",
       "install": "git clone https://github.com/ayghri/i-have-adhd .claude/skills/i-have-adhd",
-      "stars": 20557,
+      "stars": 20915,
       "updated": "2026-08-10",
       "license": "MIT"
     },
@@ -48,7 +48,7 @@
       "summary": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
       "category": "Reasoning",
       "install": "git clone https://github.com/UditAkhourii/adhd .claude/skills/adhd",
-      "stars": 3579,
+      "stars": 3595,
       "updated": "2026-08-05",
       "license": "MIT"
     },
@@ -68,8 +68,8 @@
       "summary": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "category": "Collections",
       "install": "git clone https://github.com/hesreallyhim/awesome-claude-code .claude/skills/awesome-claude-code",
-      "stars": 52321,
-      "updated": "2026-08-15",
+      "stars": 52392,
+      "updated": "2026-08-16",
       "license": "NOASSERTION"
     },
     {
@@ -78,7 +78,7 @@
       "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "category": "Collections",
       "install": "git clone https://github.com/ComposioHQ/awesome-claude-skills .claude/skills/awesome-claude-skills",
-      "stars": 72504,
+      "stars": 72571,
       "updated": "2026-08-10",
       "license": null
     },
@@ -88,7 +88,7 @@
       "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code",
       "category": "Collections",
       "install": "git clone https://github.com/travisvn/awesome-claude-skills .claude/skills/awesome-claude-skills",
-      "stars": 14654,
+      "stars": 14668,
       "updated": "2026-04-28",
       "license": null
     },
