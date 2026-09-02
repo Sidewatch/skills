@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-09-01",
+  "generated": "2026-09-02",
   "skills": [
     {
       "repo": "anthropics/skills",
@@ -8,8 +8,8 @@
       "summary": "Public repository for Agent Skills",
       "category": "Collections",
       "install": "git clone https://github.com/anthropics/skills .claude/skills/skills",
-      "stars": 172890,
-      "updated": "2026-08-21",
+      "stars": 173100,
+      "updated": "2026-09-01",
       "license": null
     },
     {
@@ -18,7 +18,7 @@
       "summary": "An agentic skills framework & software development methodology that works.",
       "category": "Frameworks",
       "install": "git clone https://github.com/obra/superpowers .claude/skills/superpowers",
-      "stars": 280211,
+      "stars": 280604,
       "updated": "2026-08-31",
       "license": "MIT"
     },
@@ -28,8 +28,8 @@
       "summary": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "category": "Design",
       "install": "git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill .claude/skills/ui-ux-pro-max-skill",
-      "stars": 123694,
-      "updated": "2026-08-31",
+      "stars": 124015,
+      "updated": "2026-09-02",
       "license": "MIT"
     },
     {
@@ -38,8 +38,8 @@
       "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "category": "Output style",
       "install": "git clone https://github.com/ayghri/i-have-adhd .claude/skills/i-have-adhd",
-      "stars": 26219,
-      "updated": "2026-08-26",
+      "stars": 26513,
+      "updated": "2026-09-01",
       "license": "MIT"
     },
     {
@@ -48,7 +48,7 @@
       "summary": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
       "category": "Reasoning",
       "install": "git clone https://github.com/UditAkhourii/adhd .claude/skills/adhd",
-      "stars": 4012,
+      "stars": 4025,
       "updated": "2026-08-29",
       "license": "MIT"
     },
@@ -68,8 +68,8 @@
       "summary": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "category": "Collections",
       "install": "git clone https://github.com/hesreallyhim/awesome-claude-code .claude/skills/awesome-claude-code",
-      "stars": 53316,
-      "updated": "2026-09-01",
+      "stars": 53365,
+      "updated": "2026-09-02",
       "license": "NOASSERTION"
     },
     {
@@ -78,7 +78,7 @@
       "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "category": "Collections",
       "install": "git clone https://github.com/ComposioHQ/awesome-claude-skills .claude/skills/awesome-claude-skills",
-      "stars": 74180,
+      "stars": 74258,
       "updated": "2026-08-10",
       "license": null
     },
@@ -88,7 +88,7 @@
       "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows \u2014 particularly Claude Code",
       "category": "Collections",
       "install": "git clone https://github.com/travisvn/awesome-claude-skills .claude/skills/awesome-claude-skills",
-      "stars": 14918,
+      "stars": 14933,
       "updated": "2026-04-28",
       "license": null
     },
@@ -98,8 +98,8 @@
       "summary": "\ud83c\udfaf The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.",
       "category": "Collections",
       "install": "git clone https://github.com/karanb192/awesome-claude-skills .claude/skills/awesome-claude-skills",
-      "stars": 503,
-      "updated": "2026-08-05",
+      "stars": 504,
+      "updated": "2026-09-01",
       "license": "MIT"
     }
   ]
