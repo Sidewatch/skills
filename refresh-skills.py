@@ -22,6 +22,7 @@ CURATED = [
     ("ComposioHQ/awesome-claude-skills",     "Awesome Claude Skills (Composio)",  "Collections"),
     ("travisvn/awesome-claude-skills",       "Awesome Claude Skills (travisvn)",  "Collections"),
     ("karanb192/awesome-claude-skills",      "Awesome Claude Skills (karanb192)", "Collections"),
+    ("vostride/agent-qa",                  "agent-qa",                          "Collections"),
 ]
 
 def fetch(repo):
